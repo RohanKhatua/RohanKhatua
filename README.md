@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @RohanKhatua
-- 👀 I’m interested in Competitive Coding and Web Development
-- 🌱 I’m currently learning C++, Bootstrap, Node.js and React
 - 💞️ I’m looking to collaborate on beginner-friendly projects
 - 📫 Reach me at khatua.rohan@gmail.com
 
