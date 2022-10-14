@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Node.js, Express**
 
-- 📫 How to reach me **khatua.rohan@gmail.com**
+- 📫 Reach me at **khatua.rohan@gmail.com**
 
 - ⚡ Fun fact **I'm pretty good at chess. Love watching football and F1.**
 
