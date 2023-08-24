@@ -12,10 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/krutons_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krutons" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohankhatua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohankhatua" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9953610/rohan-khatua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ainvader" height="30" width="40" /></a>
-<a href="https://instagram.com/rohankhatua6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohankhatua6" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ainvader" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ainvader" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ainvader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ainvader" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ainvader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ainvader" height="30" width="40" /></a>
