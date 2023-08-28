@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Khatua</h1>
 <h3 align="center">An app developer from India</h3>
 
-- 🔭 I’m currently working on [CryptoDash](https://github.com/ACM-VIT/CryptoDash)
-
-- 🌱 I’m currently learning **Flutter, Node.js, Express**
-
 - 📫 Reach me at **khatua.rohan@gmail.com**
 
 - ⚡ Fun fact **I'm pretty good at chess. Love watching football and F1.**
