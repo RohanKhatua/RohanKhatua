@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-master-rohankhatua.vercel.app/api/top-langs?username=rohankhatua&show_icons=true&locale=en&layout=compact" alt="rohankhatua" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-rohankhatua.vercel.app
+<p><img align="center" src="https://github-readme-stats-git-master-rohankhatua.vercel.app
 /api?username=rohankhatua&show_icons=true&locale=en" alt="rohankhatua" /></p>
 
