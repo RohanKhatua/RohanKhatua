@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Khatua</h1>
 <h3 align="center">An app developer from India</h3>
 
-- 📫 Reach me at **khatua.rohan@gmail.com**
+- 📫 Reach me at **contact@rohankhatua.dev**
 
 - ⚡ Fun fact **I'm pretty good at chess. Love watching football and F1.**
 
