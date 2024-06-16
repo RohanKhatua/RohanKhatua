@@ -1,5 +1,5 @@
 # 💫 About Me:
-Upcoming SDE Intern @ Wells Fargo '24 | Project Intern @ ITC Infotech | Technical Director @ ACM-VIT | Towards Full-Stack Dev<br><br>📍BLR
+Interna Analyst @ Wells Fargo '24 | Technical Director @ [ACM-VIT](https://github.com/ACM-VIT) | Towards Full-Stack Dev<br><br>📍BLR
 
 
 ## 🌐 Socials:
