@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interna Analyst @ Wells Fargo '24 | Technical Director @ [ACM-VIT](https://github.com/ACM-VIT) | Towards Full-Stack Dev<br><br>📍BLR
+Incoming SDE @ Wells Fargo | Ex - Technical Director @ [ACM-VIT](https://github.com/ACM-VIT) | Full-Stack Dev<br><br>📍BLR
 
 
 ## 🌐 Socials:
