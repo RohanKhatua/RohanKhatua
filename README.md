@@ -12,9 +12,6 @@ Incoming SDE @ Wells Fargo | Ex - Technical Director @ [ACM-VIT](https://github.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohankhatua&theme=radical&hide_border=false)<br/>
 ![](https://git-stats.rohankhatua.dev/api/top-langs/?username=rohankhatua&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohankhatua&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rohankhatua&icon=2&color=9)](https://visitcount.itsvg.in)
 
