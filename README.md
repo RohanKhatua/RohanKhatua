@@ -12,6 +12,15 @@ Incoming SDE @ Wells Fargo | Ex - Technical Director @ [ACM-VIT](https://github.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohankhatua&theme=radical&hide_border=false)<br/>
 
 <!--START_SECTION:waka-->
+
+```txt
+Go           5 hrs 2 mins    ████████████████████▓░░░░   82.65 %
+YAML         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Docker       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+TypeScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+```
+
 <!--END_SECTION:waka-->
 
 
