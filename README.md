@@ -13,7 +13,11 @@ Incoming SDE @ Wells Fargo | Ex - Technical Director @ [ACM-VIT](https://github.
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 06 January 2025 - To: 13 January 2025
+
+Total Time: 8 hrs 49 mins
+
 Go           7 hrs 22 mins   █████████████████████░░░░   83.49 %
 YAML         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 Docker       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
