@@ -6,6 +6,7 @@ Incoming SDE @ Wells Fargo | Ex - Technical Director @ [ACM-VIT](https://github.
 
 ![](https://git-stats.rohankhatua.dev/api?username=rohankhatua&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohankhatua&theme=radical&hide_border=false)<br/>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohankhatua&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
