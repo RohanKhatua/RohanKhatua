@@ -10,15 +10,15 @@ Incoming SDE @ Wells Fargo | Ex - Technical Director @ [ACM-VIT](https://github.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 January 2025 - To: 15 January 2025
+From: 09 January 2025 - To: 16 January 2025
 
-Total Time: 10 hrs 21 mins
+Total Time: 12 hrs 4 mins
 
-Go               8 hrs 38 mins   █████████████████████░░░░   83.37 %
-YAML             38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-Docker           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Git Config       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-TypeScript       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Go               8 hrs 38 mins   █████████████████▒░░░░░░░   69.53 %
+TypeScript       1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+YAML             38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Other            21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Docker           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
