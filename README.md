@@ -9,15 +9,15 @@ Intern Analyst @ [Wells Fargo](https://www.wellsfargo.com/) | Ex - Technical Dir
 <!--START_SECTION:waka-->
 
 ```rust
-From: 16 January 2025 - To: 23 January 2025
+From: 17 January 2025 - To: 24 January 2025
 
-Total Time: 7 hrs 38 mins
+Total Time: 6 hrs 23 mins
 
-Go           5 hrs 55 mins   ███████████████████▒░░░░░   77.51 %
-YAML         1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-Markdown     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Git          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Go           4 hrs 40 mins   ██████████████████▒░░░░░░   73.15 %
+YAML         1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+Markdown     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
