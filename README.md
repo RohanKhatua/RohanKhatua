@@ -9,14 +9,14 @@ Intern Analyst @ [Wells Fargo](https://www.wellsfargo.com/) | Ex - Technical Dir
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 January 2025 - To: 05 February 2025
+From: 30 January 2025 - To: 06 February 2025
 
-Total Time: 1 hr 30 mins
+Total Time: 1 hr 18 mins
 
-Python     1 hr 7 mins     ██████████████████▓░░░░░░   74.61 %
-Rust       22 mins         ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python     1 hr 7 mins     █████████████████████▓░░░   86.04 %
+Rust       10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
