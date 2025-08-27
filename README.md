@@ -9,7 +9,7 @@ Intern Analyst @ [Wells Fargo](https://www.wellsfargo.com/) | Ex - Technical Dir
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
 Total Time: 4 hrs 27 mins
 
