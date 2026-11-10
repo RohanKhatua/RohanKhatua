@@ -1,0 +1,34 @@
+name: Update weekly activity
+
+on:
+  schedule:
+    # Sundays at 12:00 UTC
+    - cron: "0 12 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-weekly-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.WEEKLY_PAT || github.token }}
+
+      - name: Collect this week's activity and update README
+        env:
+          GH_TOKEN: ${{ secrets.WEEKLY_PAT || github.token }}
+        run: python3 scripts/update_weekly_readme.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "chore: update weekly activity" && git push)
